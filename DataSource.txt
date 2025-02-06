@@ -1,0 +1,5 @@
+1. The Color Hazy Image Database (CHIC), http://chic.u-bourgogne.fr/chicpage.php
+
+2. The Cityscapes dataset, https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/
+
+3. A video surveillance data of actual traffic scenarios from the fourth question in the 2020 China Post-Graduate Mathematical Contest in Modeling. The data can be downloaded from the website, https://cpipc.acge.org.cn/cw/hp/4
